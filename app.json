@@ -1,9 +1,9 @@
 {
-  "name": "ғᴀʟʟᴇɴ ᴍᴜsɪᴄ",
+  "name": "Ledy ᴍᴜsɪᴄ",
   "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram", "fallen"],
-  "repository": "https://github.com/AnonymousR1025/FallenMusic",
+  "repository": "https://github.com/AzeMusic/LedyMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -35,12 +35,12 @@
     "OWNER_USERNAME": {
       "description": "Username of the person who will known as owner of the bot, without @",
       "required": false,
-      "value": "anonymous_was_bot"
+      "value": "ledyplaylist"
     },
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "DevilsHeavenMF"
+      "value": "SOQrup"
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
